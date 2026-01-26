@@ -1,0 +1,15 @@
+# 编译输出
+bin/
+dist/
+
+# 依赖
+vendor/
+
+# 配置文件
+configs/*.local.yaml
+
+# 开发环境
+*.log
+*.db
+.env
+.vscode/
