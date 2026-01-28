@@ -3,7 +3,7 @@ package app
 import (
 	"fmt"
 
-	"github.com/ayananerv/do-ur-chat/api/gen/message" // 确保路径与 go.mod 一致
+	"github.com/ayananerv/do-ur-chat/api/gen/message"
 
 	"google.golang.org/protobuf/proto"
 )
